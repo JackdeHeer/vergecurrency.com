@@ -41,7 +41,7 @@ info:
 developers:
   about:
     header: "Voor developers"
-    paragraph: "Het schrijven van code is moeilijk. Wij willen het je graag makkelijker maken om te werken aan Verge, daarom hebben wij een set aan tools verzameld en ze in een lijt verwerkt."
+    paragraph: "Het schrijven van code is moeilijk. Wij willen het je graag makkelijker maken om te werken aan Verge, daarom hebben wij een set aan tools verzameld en ze in een lijst verwerkt."
   resources:
     header: "Developers hulpmiddelen"
     php: "PHP Library voor de Verge wallet"
